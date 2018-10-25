@@ -8,7 +8,7 @@
 
 ### Our first Class and Object.
 
-'''
+```
 class PartyAnimal:
   x=0
 
@@ -17,7 +17,7 @@ class PartyAnimal:
     print("So far",self.x)
 
 an=PartyAnimal()
-'''
+```
 
 ### Object life cycle
 
