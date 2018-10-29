@@ -2,11 +2,11 @@
 
 ## Week 1
 
-### Unicode characters and strings. Encoded data in Python
+- Unicode characters and strings. Encoded data in Python.
 
-### OO definitions and terminology. Class as a template, blueprint. Methods (or messages in some pure forms of OO). Attributes.
+- OO definitions and terminology. Class as a template, blueprint. Methods (or messages in some pure forms of OO). Attributes.
 
-### Our first Class and Object.
+- Our first Class and Object.
 
 ```
 class PartyAnimal:
@@ -19,9 +19,19 @@ class PartyAnimal:
 an=PartyAnimal()
 ```
 
-### Object life cycle
+- Object life cycle.
 
-### Object inheritance
+- Object inheritance.
 
 
 ## Week 2
+
+- Relational Databases
+
+Basic Structured Query Language (SQL). Install DB browser for SQLite (https://sqlitebrowser.org/)
+
+- Using Databases
+
+Create a table, Retrieve some data, Update data, Delete data (CRUD). Database schema, Database Model, SQLite
+
+- Single table CRUD
