@@ -35,3 +35,17 @@ Basic Structured Query Language (SQL). Install DB browser for SQLite (https://sq
 Create a table, Retrieve some data, Update data, Delete data (CRUD). Database schema, Database Model, SQLite
 
 - Single table CRUD
+
+## Week 3
+
+- Designing a Data Model.
+
+Building a data model, data objects of your application and represent those objects and their relationships.
+
+- Representing a data model in tables.
+
+- Inserting relational Data.
+
+We have relationships !
+
+- Reconstructing data with JOIN.
