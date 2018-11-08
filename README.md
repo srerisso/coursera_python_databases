@@ -49,3 +49,7 @@ Building a data model, data objects of your application and represent those obje
 We have relationships !
 
 - Reconstructing data with JOIN.
+
+## Week 4
+
+- Many-to-many relationships.
