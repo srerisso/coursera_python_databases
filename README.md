@@ -53,3 +53,16 @@ We have relationships !
 ## Week 4
 
 - Many-to-many relationships.
+
+
+## Week 5
+
+- Geocoding
+
+This course is a good preparation for a Data Mining next course.
+Many DM technologies :
+  - [Hadoop](https://hadoop.apache.org)
+  - [Spark](http://spark.apache.org)
+  - [Redshift](https://aws.amazon.com/redshift)
+  - [Pentaho](http://community.pentaho.com)
+ 
